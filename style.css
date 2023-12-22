@@ -1,6 +1,16 @@
 body {
     font-family: Arial, sans-serif;
-    background-color: aqua;
+    background-color: rgb(47, 5, 145);
+    
+}
+h1{
+    color: chocolate;
+}
+h2{
+    color: rgb(161, 126, 194);
+}
+h3{
+    color: cornflowerblue;
 }
 
 /* #chat-container {
